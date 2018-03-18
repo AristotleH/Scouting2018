@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00549f</color>
+    <color name="colorPrimaryDark">#012e57</color>
+    <color name="colorAccent">#fdba31</color>
+    <color name="gray_blue">#8c9eff</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#9E9E9E</color>
+    <color name="royal">#4b006e</color>
+</resources>
